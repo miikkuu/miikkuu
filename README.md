@@ -1,4 +1,4 @@
-# こんにちは 👋
+#  नमस्कार्  | こんにちは 👋
 
 My name is **Yashraj Singh**.
 - 👨‍🎓 I am a **Computer Science** Student.
@@ -14,8 +14,8 @@ My name is **Yashraj Singh**.
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 ></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=50 ></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"/> width=50 ></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 ></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width=50 ></td>
           
   </tr>
   <tr>
@@ -50,7 +50,7 @@ My name is **Yashraj Singh**.
 
 <hr/>
 
-👋 さようなら！
-<!-- <a href="https://divyanshf.herokuapp.com">
+👋  आगच्छामि | さようなら！
+<!-- <a href="#">
   <img style="border-radius:50%;" width=50 src="https://raw.githubusercontent.com/DivyanshFalodiya/profile/master/public/images/logo.jpg" />
 </a> -->
