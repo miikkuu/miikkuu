@@ -1,30 +1,40 @@
-#  नमस्कार:  | こんにちは 👋
+#  नमस्कार:  | こんにちは | Hello 👋
 
 My name is **Yashraj Singh**.
 - 👨‍🎓 I am a **Computer Science** Student and a **Musician** from India.
-- 💻 I like to build softwares / applications for common use as well as fun.
-- 🧰 I primarily work with **Python Automation** and **Web Devlopement**.
-- 🤖 I am currently exploring **Devops** as a field of interest.
+- 💻 I like to build Full Stack Applications for common use as well as fun.
+- 🧰 I primarily work with **Web Apps** and **AI**.
+- 🤖 I am also exploring **Devops** as a field of interest.
 
 ## 🧰 My Stack
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 ></td>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+          </td>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          </td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width=50 ></td>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+          </td>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          </td>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+          </td>
           
   </tr>
   <tr>
     <td align="center">Django</td>
-    <td align="center">C++</td>
+    <td align="center">React,js</td>
     <td align="center">Docker</td>
-    <td align="center">HTML5</td>
-    <td align="center">Linux</td>
-    <td align="center">Unity</td>
+    <td align="center">Next.js</td>
+    <td align="center">MongoDB</td>
+    <td align="center">PostgreSQL</td>
   </tr>
  </table>
 
@@ -41,7 +51,7 @@ My name is **Yashraj Singh**.
   <img width=50 src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" />
 </a>
 
-*Having reached until here, I believe you would love to have a look at my [Portfolio](#) too.*
+*Having reached until here, I believe you would love to have a look at my [Resume](https://drive.google.com/file/d/1sLWg8af33INfstSqzYHxdv0WW0afnvAI/view?usp=sharing) too.*
 
 <hr/>
 
