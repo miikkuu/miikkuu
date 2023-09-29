@@ -2,9 +2,9 @@
 
 My name is **Yashraj Singh**.
 - 👨‍🎓 I am a **Computer Science** Student and a **Musician** from India.
-- 💻 I like to build Full Stack Applications for common use as well as fun.
-- 🧰 I primarily work with **Web Apps** and **AI**.
-- 🤖 I am also exploring **Devops** as a field of interest.
+- 💻 I like to build Software/Application for common use as well as fun.
+- 🧰 I primarily work with **FullStack Web Apps** and **Devops**.
+- 🤖 I am also exploring **AI** as a field of interest.
 
 ## 🧰 My Stack
 
