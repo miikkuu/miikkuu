@@ -45,19 +45,14 @@ My name is **Yashraj Singh**.
 <a href="https://www.linkedin.com/in/yashraj-singh-b26b4b1a4/">
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://www.instagram.com/yash.raj________/">
-  <img width=50 src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
-</a>
 
-<a href="mailto:itsmeyashraj.official@gmail.com">
-  <img width=50 src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" />
-</a>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<path fill="#4caf50" d="M45,16.2l-5,2.75l-5,4.75L35,40h7c1.657,0,3-1.343,3-3V16.2z"></path><path fill="#1e88e5" d="M3,16.2l3.614,1.71L13,23.7V40H6c-1.657,0-3-1.343-3-3V16.2z"></path><polygon fill="#e53935" points="35,11.2 24,19.45 13,11.2 12,17 13,23.7 24,31.95 35,23.7 36,17"></polygon><path fill="#c62828" d="M3,12.298V16.2l10,7.5V11.2L9.876,8.859C9.132,8.301,8.228,8,7.298,8h0C4.924,8,3,9.924,3,12.298z"></path><path fill="#fbc02d" d="M45,12.298V16.2l-10,7.5V11.2l3.124-2.341C38.868,8.301,39.772,8,40.702,8h0 C43.076,8,45,9.924,45,12.298z"></path>
+</svg>
 
-*Having reached until here, I believe you would love to have a look at my [Resume](https://drive.google.com/file/d/1sLWg8af33INfstSqzYHxdv0WW0afnvAI/view?usp=sharing) too.*
+*Having reached until here, I believe you would love to have a look at my [Resume](https://drive.google.com/file/d/1sLWg8af33INfstSqzYHxdv0WW0afnvAI/view) too.*
 
 <hr/>
 
 👋  आगच्छामि | さようなら！
-<!-- <a href="#">
-  <img style="border-radius:50%;" width=50 src="https://raw.githubusercontent.com/DivyanshFalodiya/profile/master/public/images/logo.jpg" />
-</a> -->
+
