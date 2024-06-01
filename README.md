@@ -28,6 +28,10 @@ My name is **Yashraj Singh**.
     <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
           </td>
+          <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          </td>
+
           
   </tr>
   <tr>
@@ -37,6 +41,7 @@ My name is **Yashraj Singh**.
     <td align="center">Next.js</td>
     <td align="center">MongoDB</td>
     <td align="center">PostgreSQL</td>
+    <td align="center">AWS</td>
   </tr>
  </table>
 
