@@ -5,13 +5,15 @@ My name is **Yashraj Singh**.
 - 💻 I like to build Software/Application for common use as well as fun.
 - 🧰 I primarily work with **FullStack Web Apps** and **Devops**.
 - 🤖 I am also exploring **AI** as a field of interest.
+- Check out my - <a href="https://yashraj.works">Portfolio</a>
+
 
 ## 🧰 My Stack
 
 <table>
   <tr>
     <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
           </td>
     <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -29,8 +31,8 @@ My name is **Yashraj Singh**.
           
   </tr>
   <tr>
-    <td align="center">Django</td>
-    <td align="center">React,js</td>
+    <td align="center">Node.js</td>
+    <td align="center">React.js</td>
     <td align="center">Docker</td>
     <td align="center">Next.js</td>
     <td align="center">MongoDB</td>
