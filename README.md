@@ -5,7 +5,7 @@ My name is **Yashraj Singh**.
 - 💻 I like to build Software/Application for common use as well as fun.
 - 🧰 I primarily work with **FullStack Web Apps** and **Devops**.
 - 🤖 I am also exploring **AI** as a field of interest.
-- Check out my Portfolio - <a href="https://yashraj.works">https://yashraj.works </a>
+- Check out my Portfolio - <a href="https://react-portfolio-black-gamma.vercel.app">https://yashraj.works </a>
 
 
 ## 🧰 My Stack
