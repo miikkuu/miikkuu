@@ -52,7 +52,7 @@ My name is **Yashraj Singh**.
 </a>
 
 
-*Having reached until here, I believe you would love to have a look at my [Resume](https://drive.google.com/file/d/1sLWg8af33INfstSqzYHxdv0WW0afnvAI/view) too.*
+*Having reached until here, I believe you would love to have a look at my [Resume](https://drive.google.com/file/d/1WEmRbGbAlvLuiuQTyFE0a1blbVJ046kI/view) too.*
 *Or mail@ yshraj.work@gmail.com*
 <hr/>
 
